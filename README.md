@@ -256,3 +256,15 @@ python main.py
 - Ajustar a sensibilidade por calibracao.
 - Trocar os arquivos de audio por efeitos mais curtos.
 - Criar uma tela de configuracao para volume e dificuldade.
+
+## 15. Capturas de tela
+
+As imagens abaixo mostram a interface do jogo em execucao.
+
+### Tela 1
+
+![Tela 1](imagens/tela1.png)
+
+### Tela 2
+
+![Tela 2](imagens/tela2.png)
